@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportExcel", "ImportExcel\ImportExcel.csproj", "{E4464C6A-0A08-4083-BDE9-3CC21C27E8E8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{0DEA84DA-8BAD-4FB5-98C3-7F7B41B8ED21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4464C6A-0A08-4083-BDE9-3CC21C27E8E8}.Debug|x86.ActiveCfg = Debug|x86
+		{E4464C6A-0A08-4083-BDE9-3CC21C27E8E8}.Debug|x86.Build.0 = Debug|x86
+		{E4464C6A-0A08-4083-BDE9-3CC21C27E8E8}.Release|x86.ActiveCfg = Release|x86
+		{E4464C6A-0A08-4083-BDE9-3CC21C27E8E8}.Release|x86.Build.0 = Release|x86
+		{0DEA84DA-8BAD-4FB5-98C3-7F7B41B8ED21}.Debug|x86.ActiveCfg = Debug
+		{0DEA84DA-8BAD-4FB5-98C3-7F7B41B8ED21}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DA8D4D-9CC9-4E28-BA7E-E0AB6802C513}
+	EndGlobalSection
+EndGlobal
